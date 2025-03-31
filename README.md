@@ -66,7 +66,7 @@ This project applies graph theory to stock market data to uncover structural rel
 - Correlation-based threshold networks (θ = -0.2 to 0.9)
 - MST graph showing company proximity by sector
 
-(See `/results` or [Analysis of S&P 500 stocks_report.pdf](./report/Analysis%20of%20S&P%20500%20stocks_report.pdf))
+(See `/results` or [Analysis of S&P 500 stocks_report.pdf](./Analysis%20of%20S&P%20500%20stocks_report.pdf))
 
 ---
 
