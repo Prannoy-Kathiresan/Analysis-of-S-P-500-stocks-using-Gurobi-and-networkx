@@ -18,7 +18,7 @@ This project applies graph theory to stock market data to uncover structural rel
 - Python 3.8+
 - Pandas, NumPy, Matplotlib, Seaborn
 - NetworkX (graph modeling)
-- Gurobi & `gurobipy` (for Maximum Clique optimization)
+- Gurobi (for Maximum Clique optimization)
 
 ---
 
