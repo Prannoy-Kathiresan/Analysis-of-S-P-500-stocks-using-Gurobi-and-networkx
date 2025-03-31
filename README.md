@@ -2,8 +2,6 @@
 
 This project applies graph theory to stock market data to uncover structural relationships among companies in the S&P 500 index. Using correlation networks, we identify sector dominance, explore inter-company relationships, and visualize the market as a dynamic system.
 
-> 🧑‍💻 Developed by: Nimit Kapadia, Prannoy Kathiresan, Shreekant Gokhale
-
 ---
 
 ## 🚀 Project Summary
