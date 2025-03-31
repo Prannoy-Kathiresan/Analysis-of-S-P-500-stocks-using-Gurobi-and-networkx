@@ -2,14 +2,12 @@
 
 This project applies graph theory to stock market data to uncover structural relationships among companies in the S&P 500 index. Using correlation networks, we identify sector dominance, explore inter-company relationships, and visualize the market as a dynamic system.
 
-> 👨‍💻 Developed by: Nimit Kapadia, Prannoy Kathiresan, Shreekant Gokhale
-
 ---
 
 ## 🚀 Project Summary
 
-- Analyzed daily log returns of 494 S&P 500 companies post-April 2020
-- Built correlation-based and distance-based graphs
+- Analyzed daily log returns of S&P 500 companies from April 2020 onward to study stock behavior during and post-COVID
+- Built correlation-based and distance-based networks to model inter-company relationships
 - Applied **Maximum Clique** and **Minimum Spanning Tree (MST)** analysis
 - Explored sector clustering and threshold-based network behavior (from -0.2 to 0.9)
 
