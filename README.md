@@ -66,7 +66,7 @@ This project applies graph theory to stock market data to uncover structural rel
 - Correlation-based threshold networks (θ = -0.2 to 0.9)
 - MST graph showing company proximity by sector
 
-*(See `/results` or [final-results.pdf](./report/final-results.pdf))*
+*(See `/results` or [final-results.pdf](./report/Analysis of S&P 500 stocks_report.pdf))*
 
 ---
 
@@ -111,4 +111,4 @@ pip install gurobipy
 
 ## 📩 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/prannoy-kathiresan) or open an issue for questions or collaboration ideas!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/prannoy-k/) or open an issue for questions or collaboration ideas!
