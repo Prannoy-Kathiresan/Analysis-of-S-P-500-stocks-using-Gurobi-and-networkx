@@ -44,7 +44,7 @@ This project applies graph theory to stock market data to uncover structural rel
 
 - **Financial Services** was the dominant sector at higher correlation thresholds
 - MST visualizations revealed strong intra-sector ties
-- Lower thresholds showed a broader spread of sectors (e.g., Basic Materials, Industrials)
+- Lower thresholds showed a broader spread of sectors (e.g., Real Estate, Energy, Financial Services, Communication Services)
 
 ---
 
