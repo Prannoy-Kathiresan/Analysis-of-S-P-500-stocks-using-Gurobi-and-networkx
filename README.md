@@ -67,6 +67,7 @@ This project applies graph theory to stock market data to uncover structural rel
 - MST graph showing company proximity by sector
 
 **Threshold based Correlation network**
+
 **(θ = 0.8)**
 
 **(θ = 0.6)**
@@ -74,6 +75,7 @@ This project applies graph theory to stock market data to uncover structural rel
 **(θ = 0.25)**
 
 **Maximum Cliques in threshold networks**
+
 **(θ = 0.8)**
 
 **(θ = 0.6)**
@@ -81,6 +83,7 @@ This project applies graph theory to stock market data to uncover structural rel
 **(θ = 0.25)**
 
 **Sector in Maximum Clique**
+
 **(θ = 0.8)**
 
 **(θ = 0.6)**
@@ -88,6 +91,7 @@ This project applies graph theory to stock market data to uncover structural rel
 **(θ = 0.25)**
 
 **Distance-based Minimum spanning tree**
+
 ![MST](./Minimum Spanning Tree.png)
 
 (For more detailed explanation and Visuals, See [Analysis of S&P 500 stocks_report.pdf](./Analysis%20of%20S&P%20500%20stocks_report.pdf))
