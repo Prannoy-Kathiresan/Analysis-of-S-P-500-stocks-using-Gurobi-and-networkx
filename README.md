@@ -92,7 +92,7 @@ This project applies graph theory to stock market data to uncover structural rel
 
 **Distance-based Minimum spanning tree**
 
-![MST]Minimum Spanning Tree.png
+![Minimum Spanning Tree](./Minimum%20Spanning%20Tree.png)
 
 (For more detailed explanation and Visuals, See [Analysis of S&P 500 stocks_report.pdf](./Analysis%20of%20S&P%20500%20stocks_report.pdf))
 
