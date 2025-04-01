@@ -7,6 +7,7 @@ This project applies graph theory to stock market data to uncover structural rel
 The full implementation can be found in the Jupyter Notebook:
 
 ➡️ [Analysis of S&P 500 stocks.ipynb](./Analysis%20of%20S&P%20500%20stocks.ipynb)
+
 ---
 
 ## 🚀 Project Summary
