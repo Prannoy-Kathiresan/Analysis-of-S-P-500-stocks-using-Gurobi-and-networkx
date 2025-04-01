@@ -76,47 +76,47 @@ The full implementation can be found in the Jupyter Notebook:
 
 **(θ = 0.8) :**
 
-![Theta 0.8](./12(0.8).png)
+![Theta 0.8](./images/12(0.8).png)
 
 **(θ = 0.6) :**
 
-![Theta 0.6](./14(0.6).png)
+![Theta 0.6](./images/14(0.6).png)
 
 **(θ = 0.25) :**
 
-![Theta 0.25](./15(0.25).png)
+![Theta 0.25](./images/15(0.25).png)
 
 **Maximum Cliques in threshold networks**
 
 **(θ = 0.8) :**
 
-![Theta 0.8](./22(0.8).png)
+![Theta 0.8](./images/22(0.8).png)
 
 **(θ = 0.6) :**
 
-![Theta 0.6](./24(0.6).png)
+![Theta 0.6](./images/24(0.6).png)
 
 **(θ = 0.25) :**
 
-![Theta 0.25](./25(0.25).png)
+![Theta 0.25](./images/25(0.25).png)
 
 **Sector in Maximum Clique**
 
 **(θ = 0.8) :**
 
-![Theta 0.8](./32(0.8).png)
+![Theta 0.8](./images/32(0.8).png)
 
 **(θ = 0.6) :**
 
-![Theta 0.6](./34(0.6).png)
+![Theta 0.6](./images/34(0.6).png)
 
 **(θ = 0.25) :**
 
-![Theta 0.25](./35(0.25).png)
+![Theta 0.25](./images/35(0.25).png)
 
 **Distance-based Minimum spanning tree :**
 
-![Minimum Spanning Tree](./Minimum%20Spanning%20Tree.png)
+![Minimum Spanning Tree](./images/Minimum%20Spanning%20Tree.png)
 
 (For more detailed explanation and Visuals, See [Analysis of S&P 500 stocks_report.pdf](./Analysis%20of%20S&P%20500%20stocks_report.pdf))
 
