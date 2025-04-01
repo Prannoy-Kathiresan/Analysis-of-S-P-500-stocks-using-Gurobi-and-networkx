@@ -68,29 +68,29 @@ This project applies graph theory to stock market data to uncover structural rel
 
 **Threshold based Correlation network**
 
-**(θ = 0.8)**
+**(θ = 0.8) :**
 
-**(θ = 0.6)**
+**(θ = 0.6) :**
 
-**(θ = 0.25)**
+**(θ = 0.25) :**
 
 **Maximum Cliques in threshold networks**
 
-**(θ = 0.8)**
+**(θ = 0.8) :**
 
-**(θ = 0.6)**
+**(θ = 0.6) :**
 
-**(θ = 0.25)**
+**(θ = 0.25) :**
 
 **Sector in Maximum Clique**
 
-**(θ = 0.8)**
+**(θ = 0.8) :**
 
-**(θ = 0.6)**
+**(θ = 0.6) :**
 
-**(θ = 0.25)**
+**(θ = 0.25) :**
 
-**Distance-based Minimum spanning tree**
+**Distance-based Minimum spanning tree :**
 
 ![Minimum Spanning Tree](./Minimum%20Spanning%20Tree.png)
 
