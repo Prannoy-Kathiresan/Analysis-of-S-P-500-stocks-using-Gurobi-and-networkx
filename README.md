@@ -69,7 +69,7 @@ This project applies graph theory to stock market data to uncover structural rel
 **Threshold based Correlation network**
 
 **(θ = 0.8) :**
-!(./12(0.8).png)
+![Theta 0.8](./12(0.8).png)
 **(θ = 0.6) :**
 
 **(θ = 0.25) :**
